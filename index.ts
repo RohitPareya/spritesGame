@@ -1,4 +1,4 @@
-const WIDTH = 20;
+const WIDTH = 16;
 const HEIGHT = WIDTH;
 const CELLSIZE = 20;
 const SCALE = 2.0;
